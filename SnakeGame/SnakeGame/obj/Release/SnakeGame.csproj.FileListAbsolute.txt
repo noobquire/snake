@@ -1,0 +1,10 @@
+C:\Users\Alexey\source\repos\SnakeGame\SnakeGame\bin\Release\SnakeGame.exe.config
+C:\Users\Alexey\source\repos\SnakeGame\SnakeGame\bin\Release\SnakeGame.exe
+C:\Users\Alexey\source\repos\SnakeGame\SnakeGame\bin\Release\SnakeGame.pdb
+C:\Users\Alexey\source\repos\SnakeGame\SnakeGame\bin\Release\Newtonsoft.Json.dll
+C:\Users\Alexey\source\repos\SnakeGame\SnakeGame\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Alexey\source\repos\SnakeGame\SnakeGame\bin\Release\Newtonsoft.Json.xml
+C:\Users\Alexey\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.CopyComplete
+C:\Users\Alexey\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.exe
+C:\Users\Alexey\source\repos\SnakeGame\SnakeGame\obj\Release\SnakeGame.pdb
